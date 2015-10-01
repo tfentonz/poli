@@ -1,2 +1,2 @@
-# poli
-A node module for POLi online payment service
+# POLi
+A node module for using POLi online payment service

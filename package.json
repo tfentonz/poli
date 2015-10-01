@@ -1,0 +1,26 @@
+{
+  "name": "poli",
+  "version": "1.0.0",
+  "description": "A node module for using POLi online payment service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tfentonz/poli.git"
+  },
+  "keywords": [
+    "poli",
+    "payment",
+    "centricom",
+    "ecommerce",
+    "transactions"
+  ],
+  "author": "Tom Fenton <tom.fenton@magiq.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfentonz/poli/issues"
+  },
+  "homepage": "https://github.com/tfentonz/poli#readme"
+}
