@@ -4,7 +4,7 @@
   "description": "A node module for using POLi online payment service",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/tfentonz/poli/issues"
   },
-  "homepage": "https://github.com/tfentonz/poli#readme"
+  "homepage": "https://github.com/tfentonz/poli#readme",
+  "devDependencies": {
+    "standard": "^5.3.1"
+  }
 }
