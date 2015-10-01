@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tfentonz/poli.git"
+    "url": "git+https://github.com/tfentonz/poli.git"
   },
   "keywords": [
     "poli",
@@ -23,6 +23,9 @@
     "url": "https://github.com/tfentonz/poli/issues"
   },
   "homepage": "https://github.com/tfentonz/poli#readme",
+  "dependencies": {
+    "xml": "^1.0.0"
+  },
   "devDependencies": {
     "standard": "^5.3.1"
   }
